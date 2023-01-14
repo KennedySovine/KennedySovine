@@ -11,5 +11,3 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 ***
 ## Art Examples
 !(https://github.com/KennedySovine/KennedySovine/blob/main/Art/IMG_0344.JPG)
-!(https://github.com/KennedySovine/KennedySovine/blob/main/Art/IMG_0430.JPG)
-!(https://github.com/KennedySovine/KennedySovine/blob/main/Art/IMG_0434.JPG)
