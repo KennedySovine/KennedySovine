@@ -11,3 +11,4 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 ***
 ## Art Examples
 <img src="/Art/IMG_0344.JPG" width="200" height="200">
+<img src="/Art/IMG_0430.JPG" width="200" height="300">
