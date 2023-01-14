@@ -10,4 +10,4 @@ I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II
 I am currently enrolled at Brighton, University in BSc Computer Science for Games and I am currently in my first year.
 ***
 ## Art Examples
-![Ceiling tile art of popular anime "Toilet Bound Hanako-Kun" =250x250](/Art/IMG_0344.JPG)
+<img src="/Art/IMG_0344.JPG" width="100" height="100">
