@@ -7,7 +7,7 @@
 ***
 ## Education
 I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II High School) in Hendersonville, Tennessee in May 2022, leaving with a 3.98 weighted GPA.
-I took many APs:
+<br> I took many APs:
 - Sophomore Year (2020)
   - European History (2)
 - Junior Year (2021)
