@@ -10,4 +10,4 @@ I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II
 I am currently enrolled at Brighton, University in BSc Computer Science for Games and I am currently in my first year.
 ***
 ## Art Examples
-!(https://github.com/KennedySovine/KennedySovine/blob/main/Art/IMG_0344.JPG)
+![Ceiling tile art of popular anime "Toilet Bound Hanako-Kun"](/Art/IMG_0344.JPG)
