@@ -7,7 +7,7 @@
 ***
 ## Education
 I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II High School) in Hendersonville, Tennessee in May 2022, leaving with a 3.98 weighted GPA. <br>
-I am currently enrolled at Brighton, University in BSc Computer Science for Games and I am currently in my first year.
+I am currently enrolled at Brighton, University in BSc Computer Science for Games and in my first year.
 ***
 ## Art Examples
 | <img src="/Art/IMG_0344.JPG" width="300em" height="300em"> | <img src="/Art/IMG_0430.JPG" width="225em" height="300em"> | <img src="/Art/IMG_0434.JPG" width="225em" height="300em"> |
