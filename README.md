@@ -12,3 +12,6 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 ## Art Examples
 | <img src="/Art/IMG_0344.JPG" width="300em" height="300em"> | <img src="/Art/IMG_0430.JPG" width="225em" height="300em"> | <img src="/Art/IMG_0434.JPG" width="225em" height="300em"> |
 | --- | --- | --- |
+** Concept Art Examples
+| <img src="/Art/IMG_0344.JPG" width="300em" height="300em"> | <img src="/Art/IMG_0430.JPG" width="225em" height="300em"> | <img src="/Art/IMG_0434.JPG" width="225em" height="300em"> |
+| --- | --- | --- |
