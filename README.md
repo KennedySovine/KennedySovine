@@ -19,5 +19,4 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 ## Art Examples
 [Art Folder](/Art)
 ## Concept Art Examples
-| <img src="/Concept Art/KARMA_PT_CA_1.png" width="300em" height="300em"> | <img src="/Concept Art/KARMA_KNIFE_CA_1.png" width="300em" height="300em"> | <img src="/Concept Art/KARMA_SHEATH_CA_1.png" width="300em" height="300em"> |
-| --- | --- | --- |
+[Concept Art Folder](/Concept Art)
