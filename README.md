@@ -19,4 +19,4 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 ## Art Examples
 [Art Folder](/Art)
 ## Concept Art Examples
-[Concept Art Folder](/Concept Art)
+[Concept Art Folder](/Concept Art/)
