@@ -17,8 +17,7 @@ I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II
 I am currently enrolled at Brighton, University in BSc Computer Science for Games and in my first year.
 ***
 ## Art Examples
-| <img src="/Art/IMG_0344.JPG" width="300em" height="300em"> | <img src="/Art/IMG_0430.JPG" width="225em" height="300em"> | <img src="/Art/IMG_0434.JPG" width="225em" height="300em"> |
-| --- | --- | --- |
+[Art Folder](/Art)
 ## Concept Art Examples
 | <img src="/Concept Art/KARMA_PT_CA_1.png" width="300em" height="300em"> | <img src="/Concept Art/KARMA_KNIFE_CA_1.png" width="300em" height="300em"> | <img src="/Concept Art/KARMA_SHEATH_CA_1.png" width="300em" height="300em"> |
 | --- | --- | --- |
