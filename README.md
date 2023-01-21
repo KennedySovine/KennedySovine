@@ -17,6 +17,5 @@ I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II
 I am currently enrolled at Brighton, University in BSc Computer Science for Games and in my first year.
 ***
 ## Art Examples
-[Art Folder](/Art)
+[Art Folder](/Art) [Concept Art Folder](/Concept Art)
 ## Concept Art Examples
-[Concept Art Folder](/Concept Art)
