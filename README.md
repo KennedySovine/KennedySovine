@@ -4,6 +4,13 @@
 - **From**: Tennessee, United States🇺🇸
 - **Located**: Brighton, England🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Age**: 19
+- **Coding Language Experience**:
+  - Java (Fluent)
+  - C++ (Intermediate)
+  - Python (Beginner)
+  - C (Beginner)
+  - HTML/CSS/JavaScript (Intermediate)
+  - SQL (Beginner)
 ***
 ## Education
 I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II High School) in Hendersonville, Tennessee in May 2022, leaving with a 3.98 weighted GPA. <br>
