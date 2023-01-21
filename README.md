@@ -11,6 +11,7 @@
   - C (Beginner)
   - HTML/CSS/JavaScript (Intermediate)
   - SQL (Beginner)
+-**Resume**: [LinkedIn](https://www.linkedin.com/in/kennedy-sovine-975090199/)
 ***
 ## Education
 I graduated from Pope John Paul II Preparatory School (former: Pope John Paul II High School) in Hendersonville, Tennessee in May 2022, leaving with a 3.98 weighted GPA. <br>
