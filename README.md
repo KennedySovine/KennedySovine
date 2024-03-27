@@ -11,7 +11,7 @@
   - C (Beginner)
   - HTML/CSS/JavaScript (Intermediate)
   - SQL (Beginner)
-  - Unity (Beginner)
+  - Unity (Intermediate)
   - Maya (Intermediate)
 - **Resume**: [LinkedIn](https://www.linkedin.com/in/kennedy-sovine-975090199/)
 ***
