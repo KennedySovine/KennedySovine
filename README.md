@@ -37,3 +37,7 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 - [CI517-Game Engine Fundamentals](https://github.com/KennedySovine/CI517_Game_Engine_Fundamentals)
 - [CI536-Integrated Group Project](https://github.com/KennedySovine/Integrated-Group-Project)
 - [CI520-Narrative Game Design](https://github.com/KennedySovine/Project-new-world)
+### Third Year
+- [CI601-The Computing Project](https://github.com/KennedySovine/Final-Project)
+- [CI628-Multiplayer Game Development](https://github.com/KennedySovine/CI628-Multiplayer-Game-Development)
+- [CI606-Virtual Reality Systems](https://github.com/KennedySovine/CI606-Virtual-Reality-Systems)
