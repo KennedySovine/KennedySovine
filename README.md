@@ -41,3 +41,5 @@ I am currently enrolled at Brighton, University in BSc Computer Science for Game
 - [CI601-The Computing Project](https://github.com/KennedySovine/Final-Project)
 - [CI628-Multiplayer Game Development](https://github.com/KennedySovine/CI628-Multiplayer-Game-Development)
 - [CI606-Virtual Reality Systems](https://github.com/KennedySovine/CI606-Virtual-Reality-Systems)
+- CI646-Programming Languages, Concurrency, and Client Server Computing
+- CI614-Cyber Security and Intellectual Property Law
