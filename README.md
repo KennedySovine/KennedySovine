@@ -1,7 +1,7 @@
 # Kennedy Sovine - All About Me
 ## Quick Facts
 - **Name**: Kennedy Sovine
-- **From**: Tennessee, United States🇺🇸
+- **From**: Tennessee, United States
 - **Located**: Brighton, England🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Age**: 21
 - **Coding Language Experience**:
