@@ -2,8 +2,8 @@
 ## Quick Facts
 - **Name**: Kennedy Sovine
 - **From**: Tennessee, United States
-- **Located**: Brighton, England🏴󠁧󠁢󠁥󠁮󠁧󠁿
-- **Age**: 21
+- **Located**: Camrbridge, England🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- **Age**: 22
 - **Coding Language Experience**:
   - Java (Fluent)
   - C++ (Intermediate)
